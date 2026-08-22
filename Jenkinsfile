@@ -33,4 +33,3 @@ pipeline {
         }
     }
 }
-```[cite: 2]
